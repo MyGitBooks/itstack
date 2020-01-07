@@ -9,11 +9,16 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">加载中</div>
   <script>
     window.$docsify = {
       name: '',
-      repo: ''
+      repo: '',
+      loadSidebar: true,
+      coverpage: true,
+      repo: 'https://github.com/fuzhengwei/itstack-demo-jvm',
+      maxLevel: 4,
+      auto2top: true,
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
