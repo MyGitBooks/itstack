@@ -1,4 +1,4 @@
-* [`用Java实现JVM第一章《命令行工具》`](/notes/itstack-demo-jvm/2019-05-01-用Java实现JVM第一章《命令行工具》.md)
+* [用Java实现JVM第一章《命令行工具》](/notes/itstack-demo-jvm/2019-05-01-用Java实现JVM第一章《命令行工具》.md)
 * [`用Java实现JVM第二章《搜索class文件》`](/notes/itstack-demo-jvm/2019-05-02-用Java实现JVM第二章《搜索class文件》.md)
 * [`用Java实现JVM第三章《解析class文件》`](/notes/itstack-demo-jvm/2019-05-03-用Java实现JVM第三章《解析class文件》.md)
 * [`用Java实现JVM第三章《解析class文件》附[classReader拆解]`](/notes/itstack-demo-jvm/2019-05-04-用Java实现JVM第三章《解析class文件》附[classReader拆解].md)
