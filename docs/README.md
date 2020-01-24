@@ -15,7 +15,7 @@
 
 ## 技术栈目录
 
-* [`Java基础编程`]()
+* [`Java基础编程`](/notes/itstack-demo-any.md)
 * [`源码解读`]()
 * [`用Java实现jvm虚拟机`]()
 * [`Netty4.x专题`]()
@@ -30,7 +30,7 @@
 
 ```
 作者：小傅哥
-链接：[https://bugstack.cn](https://bugstack.cn)
+链接：https://bugstack.cn
 来源：bugstack虫洞栈
 ```
 
