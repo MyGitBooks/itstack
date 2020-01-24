@@ -12,7 +12,7 @@
     * [`netty案例，netty4.1基础入门篇八《NettyClient半包粘包处理、编码解码处理、收发数据方式》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-11-netty案例，netty4.1基础入门篇八《NettyClient半包粘包处理、编码解码处理、收发数据方式》.md)
     * [`netty案例，netty4.1基础入门篇九《自定义编码解码器，处理半包、粘包数据》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-12-netty案例，netty4.1基础入门篇九《自定义编码解码器，处理半包、粘包数据》.md)
     * [`netty案例，netty4.1基础入门篇十《关于ChannelOutboundHandlerAdapter简单使用》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-13-netty案例，netty4.1基础入门篇十《关于ChannelOutboundHandlerAdapter简单使用》.md)
-    * [`netty案例，netty4.1基础入门篇十一《netty udp通信方式案例Demo》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-14-netty案例，netty4.1基础入门篇十一《netty udp通信方式案例Demo》.md)
+    * [`netty案例，netty4.1基础入门篇十一《netty udp通信方式案例Demo》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-14-netty案例，netty4.1基础入门篇十一《nettyudp通信方式案例Demo》.md)
     * [`netty案例，netty4.1基础入门篇十二《简单实现一个基于Netty搭建的Http服务》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-15-netty案例，netty4.1基础入门篇十二《简单实现一个基于Netty搭建的Http服务》.md)
   
  - 中级拓展篇
