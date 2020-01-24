@@ -1,5 +1,5 @@
 * [:octocat: 首页](/README)
-* [:coffee: Java基础编程](/catalog/itstack-demo-any.md)
+* [:coffee: Java基础编程](/notes/itstack-demo-any.md)
 * [:computer: 用Java实现jvm虚拟机](/catalog/itstack-demo-jvm.md)
 * [:pencil2: Spring系列源码解读](/catalog/itstack-demo-code.md)
 * [:sound: Netty4.x专题](/catalog/itstack-demo-netty.md)
