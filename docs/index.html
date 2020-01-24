@@ -52,7 +52,7 @@
         function (hook, vm) {
           hook.doneEach(function() {
             var label, domObj, main, divEle, gitalk;
-            label = decodeURI(vm.route.path.split("/").pop());
+            label = md5(decodeURI(vm.route.path.split("/").pop()));
             domObj = Docsify.dom;
             main = domObj.getNode("#main");
 
@@ -78,6 +78,7 @@
     }
   </script>
 
+<script src="//itstack.org/assets/js/md5.js"></script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
