@@ -52,7 +52,7 @@
         function (hook, vm) {
           hook.doneEach(function() {
             var label, domObj, main, divEle, gitalk;
-            label = vm.route.path.split("/").pop();
+            label = md5(decodeURI(vm.route.path.split("/").pop()));
             domObj = Docsify.dom;
             main = domObj.getNode("#main");
 
