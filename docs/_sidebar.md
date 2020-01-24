@@ -1,4 +1,4 @@
-* Introduction
+* [:checkered_flag: Introduction](Introduction)
     * [简介](README.md)
 
 * [Java基础编程](/notes/itstack-demo-any.md)
