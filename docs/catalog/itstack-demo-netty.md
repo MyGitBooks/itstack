@@ -1,7 +1,6 @@
 ## 文章目录
 
- ### 基础入门篇
- 
+ - 基础入门篇
     * [`netty案例，netty4.1基础入门篇零《初入JavaIO之门BIO、NIO、AIO实战练习》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-07-30-netty案例，netty4.1基础入门篇零《初入JavaIO之门BIO、NIO、AIO实战练习》.md)
     * [`netty案例，netty4.1基础入门篇一《嗨！NettyServer》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-01-netty案例，netty4.1基础入门篇一《嗨！NettyServer》.md)
     * [`netty案例，netty4.1基础入门篇二《NettyServer接收数据》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-05-netty案例，netty4.1基础入门篇二《NettyServer接收数据》.md)
@@ -16,7 +15,7 @@
     * [`netty案例，netty4.1基础入门篇十一《netty udp通信方式案例Demo》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-14-netty案例，netty4.1基础入门篇十一《netty udp通信方式案例Demo》.md)
     * [`netty案例，netty4.1基础入门篇十二《简单实现一个基于Netty搭建的Http服务》`](/notes/itstack-demo-netty/itstack-demo-netty-1/2019-08-15-netty案例，netty4.1基础入门篇十二《简单实现一个基于Netty搭建的Http服务》.md)
   
- ### 中级拓展篇
+ - 中级拓展篇
     * [`netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》`](/notes/itstack-demo-netty/itstack-demo-netty-2/2019-08-16-netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》.md)
     * [`netty案例，netty4.1中级拓展篇二《Netty使用Protobuf传输数据》`](/notes/itstack-demo-netty/itstack-demo-netty-2/2019-08-17-netty案例，netty4.1中级拓展篇二《Netty使用Protobuf传输数据》.md)
     * [`netty案例，netty4.1中级拓展篇三《Netty传输Java对象》`](/notes/itstack-demo-netty/itstack-demo-netty-2/2019-08-18-netty案例，netty4.1中级拓展篇三《Netty传输Java对象》.md)
@@ -31,15 +30,13 @@
     * [`netty案例，netty4.1中级拓展篇十二《Netty流量整形数据流速率控制分析与实战》`](/notes/itstack-demo-netty/itstack-demo-netty-2/2019-08-27-netty案例，netty4.1中级拓展篇十二《Netty流量整形数据流速率控制分析与实战》.md)
     * [`netty案例，netty4.1中级拓展篇十三《Netty基于SSL实现信息传输过程中双向加密验证》`](/notes/itstack-demo-netty/itstack-demo-netty-2/2019-08-28-netty案例，netty4.1中级拓展篇十三《Netty基于SSL实现信息传输过程中双向加密验证》.md)
  
- ### 高级应用篇
- 
+ - 高级应用篇
     * [`手写RPC框架第一章《自定义配置xml》`](/notes/itstack-demo-netty/itstack-demo-netty-3/2019-09-01-手写RPC框架第一章《自定义配置xml》.md)
     * [`手写RPC框架第二章《netty通信》`](/notes/itstack-demo-netty/itstack-demo-netty-3/2019-09-02-手写RPC框架第二章《netty通信》.md)
     * [`手写RPC框架第三章《RPC中间件》`](/notes/itstack-demo-netty/itstack-demo-netty-3/2019-09-03-手写RPC框架第三章《RPC中间件》.md)
     * [`websocket与下位机通过netty方式通信传输行为信息`](/notes/itstack-demo-netty/itstack-demo-netty-3/2019-12-01-websocket与下位机通过netty方式通信传输行为信息.md)
    
- ### 源码分析篇
- 
+ - 源码分析篇
     * [`netty案例，netty4.1源码分析篇一《NioEventLoopGroup源码分析》`](/notes/itstack-demo-netty/itstack-demo-netty-4/2019-09-10-netty案例，netty4.1源码分析篇一《NioEventLoopGroup源码分析》.md)
     * [`netty案例，netty4.1源码分析篇二《ServerBootstrap配置与绑定启动》`](/notes/itstack-demo-netty/itstack-demo-netty-4/2019-09-11-netty案例，netty4.1源码分析篇二《ServerBootstrap配置与绑定启动》.md)
     * [`netty案例，netty4.1源码分析篇三《Netty服务端初始化过程以及反射工厂的作用》`](/notes/itstack-demo-netty/itstack-demo-netty-4/2019-09-12-netty案例，netty4.1源码分析篇三《Netty服务端初始化过程以及反射工厂的作用》.md)
