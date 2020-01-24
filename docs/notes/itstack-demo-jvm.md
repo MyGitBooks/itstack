@@ -10,3 +10,5 @@
 * [`用Java实现JVM第八章《数组和字符串》`](/notes/itstack-demo-jvm/2019-05-09-用Java实现JVM第八章《数组和字符串》.md)
 * [`用Java实现JVM第九章《本地方法调用》`](/notes/itstack-demo-jvm/2019-05-10-用Java实现JVM第九章《本地方法调用》.md)
 * [`用Java实现JVM第十章《异常处理》`](/notes/itstack-demo-jvm/2019-05-11-用Java实现JVM第十章《异常处理》.md)
+
+## [用Java实现JVM第一章《命令行工具》](/notes/itstack-demo-jvm/2019-05-01-用Java实现JVM第一章《命令行工具》.md)
