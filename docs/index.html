@@ -52,7 +52,7 @@
         function (hook, vm) {
           hook.doneEach(function() {
             var label, domObj, main, divEle, gitalk;
-            label = md5(decodeURI(vm.route.path.split("/").pop()));
+            label = vm.route.path.split("/").pop();
             domObj = Docsify.dom;
             main = domObj.getNode("#main");
 
@@ -62,7 +62,7 @@
             ).forEach(function(ele) {
               ele.remove();
             });
-
+      
             divEle = domObj.create("div");
             divEle.id = "gitalk-container-" + label;
             divEle.className = "gitalk-container";
