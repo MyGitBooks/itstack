@@ -15,14 +15,14 @@
 
 ## 技术栈目录
 
-* [`Java基础编程`](/notes/itstack-demo-any.md)
-* [`用Java实现jvm虚拟机`]()
-* [`Spring系列源码解读`]()
-* [`Netty4.x专题`]()
-* [`DDD领域驱动设计`]()
-* [`中间件开发`]()
-* [`JavaAgent全链路监控`]()
-* [`架构框架搭建`]()
+* [`Java基础编程`](/catalog/itstack-demo-any.md)
+* [`用Java实现jvm虚拟机`](/catalog/itstack-demo-jvm.md)
+* [`Spring系列源码解读`](/catalog/itstack-demo-code.md)
+* [`Netty4.x专题`](/catalog/itstack-demo-netty.md)
+* [`DDD领域驱动设计`](/catalog/itstack-demo-ddd.md)
+* [`中间件开发`](/catalog/itstack-demo-middleware.md)
+* [`JavaAgent全链路监控`](/catalog/itstack-demo-agent.md)
+* [`架构框架搭建`](/catalog/itstack-demo-frame.md)
 
 ##  转载分享
 
