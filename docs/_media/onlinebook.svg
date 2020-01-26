@@ -10,8 +10,8 @@
     <rect width="1019" height="200" fill="url(#a)"/>
   </g>
   <g fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
-    <text x="220" y="148" textLength="219" fill="#000" opacity="0.25">CyC</text>
-    <text x="210" y="138" textLength="219">CyC</text>
+    <text x="200" y="148" textLength="265" fill="#000" opacity="0.25">Book</text>
+    <text x="190" y="138" textLength="265">Book</text>
     <text x="534" y="148" textLength="440" fill="#000" opacity="0.25">在线阅读</text>
     <text x="524" y="138" textLength="440">在线阅读</text>
   </g>
