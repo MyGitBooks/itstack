@@ -6,7 +6,7 @@
 <div align="center">
 <a href="https://github.com/fuzhengwei/itstack"><img src="https://badgen.net/github/stars/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://badgen.net/github/forks/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
-<a href="https://itstack.org"><img src="https://itstack.org/_media/onlinebook.png?x-oss-process=style/may" style="width:87px; height:24px; border-radius:5px;"></a>
+<a href="https://itstack.org"><img src="https://itstack.org/_media/onlinebook.png" width="87px" height="24px" style="width:87px; height:24px; border-radius:5px;"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://itstack.org/_media/wxbugstack.svg"></a>
 </div>
 <br/>
