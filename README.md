@@ -1,8 +1,3 @@
-<div align="center">
-     <div style="font-size:36px;">虫洞&nbsp;·&nbsp;技术栈 </div>    
-     <br/>
-</div>
-
 #  虫洞 · 技术栈
 
 <div align="center">
@@ -13,7 +8,7 @@
 </div>
 <br/>
 
-| Java | JVM| Spring | Netty4.x | 领域驱动设计 | 中间件 | JavaAgent | 架构设计 | 
+| Java基础 | JVM| Spring源码 | Netty4.x | 领域驱动设计 | 中间件开发 | JavaAgent | 架构框架搭建 | 
 | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: | 
 | [:coffee:](#coffee-Java基础编程) | [:computer:](#用Java实现jvm虚拟机) | [:pencil2:](#pencil2-Spring系列源码解读) | [:sound:](#sound-Netty4.x专题) | [:triangular_ruler:](#triangular_ruler-DDD领域驱动设计) | [:electric_plug:](#electric_plug-中间件开发) | [:ghost:](#ghost-JavaAgent全链路监控) | [:art:](#art-架构框架搭建) |
 
