@@ -1,8 +1,8 @@
-#  虫洞 · 技术栈
-
----
+#  《虫洞 · 技术栈》
 
 > 本文档是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个较清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+> **作者：** 小傅哥，Java Developer，[CSDN 博客专家](https://bugstack.blog.csdn.net)
 
 <div align="center">
 <a href="https://github.com/fuzhengwei/itstack"><img src="https://badgen.net/github/stars/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
@@ -12,7 +12,7 @@
 </div>
 <br/>
 
-| Java基础 | JVM| Spring源码 | Netty4.x | 领域驱动设计 | 中间件开发 | JavaAgent | 架构框架搭建 | 
+| Java基础 | 用Java实现jvm虚拟机| Spring源码 | Netty4.x | 领域驱动设计 | 中间件开发 | JavaAgent | 架构框架搭建 | 
 | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: | 
 | [:coffee:](#coffee-Java基础编程) | [:computer:](#用Java实现jvm虚拟机) | [:pencil2:](#pencil2-Spring系列源码解读) | [:sound:](#sound-Netty4.x专题) | [:triangular_ruler:](#triangular_ruler-DDD领域驱动设计) | [:electric_plug:](#electric_plug-中间件开发) | [:ghost:](#ghost-JavaAgent全链路监控) | [:art:](#art-架构框架搭建) |
 
@@ -38,7 +38,7 @@
 
 ## :art: 架构框架搭建
 
-> **作者：** 小傅哥，Java Developer，[CSDN 博客专家](https://bugstack.blog.csdn.net)
+---
 
 ##  转载分享
 
