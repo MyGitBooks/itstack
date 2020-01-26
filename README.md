@@ -1,8 +1,8 @@
-#  《虫洞 · 技术栈》
-
-> 本文档是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个较清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
+#  虫洞 · 技术栈 | 沉淀、分享、成长，让自己和他人都能有所收获！
 
 > **作者：** 小傅哥，Java Developer，[CSDN 博客专家](https://bugstack.blog.csdn.net)
+
+> 本文档是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个较清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
 
 <div align="center">
 <a href="https://github.com/fuzhengwei/itstack"><img src="https://badgen.net/github/stars/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
@@ -53,12 +53,12 @@
 ## 联系我
 
 - **加群交流**
-本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “小傅哥” 微信，备注：加群。
-<img src="https://itstack.org/_media/fustack.png?x-oss-process=style/may" width="180" height="180"/>
+    本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “小傅哥” 微信，备注：加群。
+    [](https://itstack.org/_media/fustack.png?x-oss-process=style/may)
 
 - **公众号**
-沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有；Netty4.x实战专题案例、用Java实现JVM、基于JavaAgent的全链路监控、手写RPC框架、DDD专题案例、源码分析等。
-<img src="https://itstack.org/_media/qrcode.png?x-oss-process=style/may" width="180" height="180"/>
+    沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有；Netty4.x实战专题案例、用Java实现JVM、基于JavaAgent的全链路监控、手写RPC框架、DDD专题案例、源码分析等。
+    [](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
 
 ## 参与贡献
 
