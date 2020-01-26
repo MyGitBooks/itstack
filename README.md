@@ -19,7 +19,6 @@
 <br/>
 <div align="center">
     <a href="https://itstack.org" style="text-decoration:none"><img src="https://itstack.org/_media/icon.svg" width="128px"></a>
-    <span style="color:red;">点击阅读</span>
 </div>
 <br/>  
 
