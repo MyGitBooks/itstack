@@ -8,8 +8,8 @@
         <rect width="1480" height="200" rx="30" fill="#FFF"/>
     </mask>
     <g mask="url(#m)">                                   
-        <rect width="540" height="200" fill="#4c1"/>
-        <rect width="940" height="200" fill="#555" x="540"/>
+        <rect width="540" height="200" fill="#07c160"/>
+        <rect width="940" height="200" fill="#e7232c" x="540"/>
         <rect width="1480" height="200" fill="url(#a)"/>
     </g>
     <g fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
