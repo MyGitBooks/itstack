@@ -1,5 +1,5 @@
 <div align="center">
-     <span style="font-size:36px;font-weight:bolder;color:#515151;">虫洞&nbsp;·&nbsp;技术栈 </span>    
+     <div style="font-size:36px;">虫洞&nbsp;·&nbsp;技术栈 </div>    
      <hr/>
 </div>
 
