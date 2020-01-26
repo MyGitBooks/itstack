@@ -2,6 +2,8 @@
 
 ---
 
+> 本文档是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个较清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
+
 <div align="center">
 <a href="https://github.com/fuzhengwei/itstack"><img src="https://badgen.net/github/stars/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://badgen.net/github/forks/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
@@ -36,31 +38,7 @@
 
 ## :art: 架构框架搭建
 
-# 《虫洞  ·  技术栈》
-
-[![stars](https://badgen.net/github/stars/fuzhengwei/itstack?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/itstack) [![forks](https://badgen.net/github/forks/fuzhengwei/itstack?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/itstack) [<img src="https://itstack.org/_media/wxbugstack.svg">](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
-
-> 本文档是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个较清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-> 为 Java 高级编程以及技能拓展打造的一个博客站点 [:memo: bugstack虫洞栈](https://bugstack.cn)
-
-**如何支持：**
-- 关注公众号 [bugstack虫洞栈](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
-- 点击右上角Star :star: 给予关注
-- 分享给您身边更多的小伙伴
-
 > **作者：** 小傅哥，Java Developer，[CSDN 博客专家](https://bugstack.blog.csdn.net)
-
-## 技术栈目录
-
-* [`Java基础编程`](/catalog/itstack-demo-any.md)
-* [`用Java实现jvm虚拟机`](/catalog/itstack-demo-jvm.md)
-* [`Spring系列源码解读`](/catalog/itstack-demo-code.md)
-* [`Netty4.x专题`](/catalog/itstack-demo-netty.md)
-* [`DDD领域驱动设计`](/catalog/itstack-demo-ddd.md)
-* [`中间件开发`](/catalog/itstack-demo-middleware.md)
-* [`JavaAgent全链路监控`](/catalog/itstack-demo-agent.md)
-* [`架构框架搭建`](/catalog/itstack-demo-frame.md)
 
 ##  转载分享
 
