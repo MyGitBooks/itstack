@@ -1,12 +1,12 @@
 <div align="center">
-     <div style="font-size:36px;">虫洞&nbsp;·&nbsp;技术栈 </div>    
+     <img src="https://itstack.org/_media/head.png">
      <hr/>
 </div>
 
 <div align="center">
 <a href="https://github.com/fuzhengwei/itstack"><img src="https://badgen.net/github/stars/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://badgen.net/github/forks/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
-<a href="https://itstack.org"><img src="https://itstack.org/_media/onlinebook.png" width="87px" height="24px" style="border-radius:5px"></a>
+<a href="https://itstack.org"><img src="https://itstack.org/_media/onlinebook.svg"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://itstack.org/_media/wxbugstack.svg"></a>
 </div>
 <br/>
