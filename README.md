@@ -5,8 +5,8 @@
 > 本文档是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个较清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
 
 <div align="center">
-<a href="https://github.com/fuzhengwei/itstack"><img src="https://badgen.net/github/stars/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
-<a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://badgen.net/github/forks/fuzhengwei/itstack?icon=github&color=4ab8a1"></a>
+<a href="https://github.com/MyGitBooks/itstack.github.io"><img src="https://badgen.net/github/stars/MyGitBooks/itstack.github.io?icon=github&color=4ab8a1"></a>
+<a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://badgen.net/github/forks/MyGitBooks/itstack.github.io?icon=github&color=4ab8a1"></a>
 <a href="https://itstack.org" target="_blank"><img src="https://itstack.org/_media/onlinebook.svg"></a>
 <a href="https://itstack.org/_media/qrcode.png?x-oss-process=style/may"><img src="https://itstack.org/_media/wxbugstack.svg"></a>
 </div>
